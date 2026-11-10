@@ -1,2 +1,2 @@
-# JMT-tallery
+# JMT-taller
 Aplicación gestión clientes
